@@ -38,6 +38,7 @@ Scope of Variable: global, local and nonlocal
 
 Recursion in Python [PDF (Click Here)](http://amirkhan1092.c1.biz/recursion.pdf) 
 , [MCQ](http://amirkhan1092.c1.biz/recursion_mcq.pdf)
+, [MCQ ANS](https://www.techbeamers.com/python-functions-quiz-part-1/)
 , [Examples Code File](https://github.com/amirkhan1092/python38-GLA/blob/master/recursion_file.py)
 
 Modules in Python: 
