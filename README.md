@@ -33,7 +33,7 @@ Anonymous Functions( Lambda Function),
 Scope of Variable: global, local and nonlocal 
 [( click here for pdf )](http://amirkhan1092.c1.biz/function.pdf),
 [(MCQ Function)](http://amirkhan1092.c1.biz/function_mcq.pdf)
-[MCQ Function Ans](https://www.techbeamers.com/python-functions-quiz-part-1/)
+[(MCQ Function Ans)](https://www.techbeamers.com/python-functions-quiz-part-1/)
 [(Examples Code File)](https://github.com/amirkhan1092/python38-GLA/blob/master/functions_commonfile.py)
 
 
