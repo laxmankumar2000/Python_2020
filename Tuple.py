@@ -11,7 +11,7 @@ of squre brackets([]), and it is also immutable(not changavle)
 
 '''
 
-# Intialize the tuple.
+# Initialization the tuple.
 t=()
 print(type(t))                              # <class 'tuple'>
 
@@ -19,7 +19,7 @@ print(type(t))                              # <class 'tuple'>
 
 
 
-# Initilieze the tuple with single element.
+# Initizlize the tuple with single element.
 b=(20,)
 a=20,
 print(a,type(a))                           # (20,) <class 'tuple'>
