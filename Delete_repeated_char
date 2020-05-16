@@ -1,0 +1,12 @@
+'''
+                  Delete_repeated_char
+
+'''
+st = input('enter the string ')
+out = ''
+
+for i in st:
+    if i not in out:
+        out += i
+
+print(out)
