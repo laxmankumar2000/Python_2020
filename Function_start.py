@@ -31,6 +31,9 @@ res=sum_two(num1,num2)
 print(res)
 
 
+
+
+     
 def type_sum(v1,v2):
     type1=[int,list,str,tuple]
     type2=[dict,set]
@@ -89,7 +92,7 @@ print(lst)
 
 
 
-# sum using lambda funct.
+# sum using lambda function.
 sum=lambda x,y,z:x+y+z
 print(sum(10,15,14))
 
